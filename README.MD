@@ -4,8 +4,6 @@
 
 Learnify is a platform designed to facilitate the creation, management, and delivery of educational courses and lessons. It enables teachers to create courses and lessons, and students to enroll in and access these lessons.
 
-![Learnify Logo](link_to_your_logo_image) <!-- Add your logo link here -->
-
 ## Team
 
 - Arai Bayaly
