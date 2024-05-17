@@ -8,8 +8,7 @@ Learnify is a platform designed to facilitate the creation, management, and deli
 
 ## Team
 
-- [Name - Surname](link_to_github_or_linkedin) <!-- Add team members' names and links -->
-- [Name - Surname](link_to_github_or_linkedin)
+- Arai Bayaly
 
 ## API Endpoints
 
